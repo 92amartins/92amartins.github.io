@@ -1,4 +1,3 @@
 baseURL = 'https://92amartins.github.io/'
 languageCode = 'pt-br'
 title = 'Random Walker'
-theme = 'PaperMod'
